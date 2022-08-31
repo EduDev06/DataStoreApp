@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DataStoreApp</string>
+
+    <string name="dark_theme_enabled">Dark Theme enabled</string>
 </resources>
